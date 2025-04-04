@@ -21,7 +21,7 @@ controla pelo código armazenado no Arduino, que no momento que recebe a informa
 sensor, processa e envia esta informação para que a tela LCD a imprima, o código define um
 delay de 500ms para a limpeza da tela onde uma informação é impressa e após meio segundo
 aquela informação é apagada da tela e uma nova informação é impressa desta forma tendo uma
-maior precisão é sincronia com o sensor.
+maior precisão é sincronia com o sensor. Se quiser mais informações do projeto mude para o master aonde está escrito main!!!
 O sistema é alimentado por um sistema de painel solar Off-Grid no qual não possui nenhuma
 conexão com a rede de distribuição elétrica, o painel solar capta os raios do sol por meio de
 células fotovoltaicas transformando estes raios em energia elétrica (CC) que irá para um
